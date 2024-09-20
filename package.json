@@ -1,0 +1,30 @@
+{
+  "name": "smartedu",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafachill/SmartEdu.git"
+  },
+  "keywords": [
+    "Education",
+    "Portal"
+  ],
+  "author": "Mustafa Çil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafachill/SmartEdu/issues"
+  },
+  "homepage": "https://github.com/mustafachill/SmartEdu#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.6"
+  }
+}
